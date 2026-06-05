@@ -1,0 +1,18 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit & Local databases
+.streamlit/
+chroma_db/
+temp_pdf_file.pdf
+
+# Environments
+.env
+venv/
+env/
+
+# OS related
+.DS_Store
+Thumbs.db
